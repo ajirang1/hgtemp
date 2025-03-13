@@ -1,7 +1,7 @@
 const temp = document.querySelector(".temp");
 const info = document.querySelector(".info");
 const loca = document.querySelector(".loca");
-const apiKey = "52616d456f686f7737385341494f6f";
+const apiKey = "자신의 키로 변경";
 
 temp.addEventListener('mouseover', function() {
     this.classList.add('active');
